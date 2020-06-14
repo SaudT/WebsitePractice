@@ -5,6 +5,8 @@ body{
 
     line-height: 2em;
 }
-#todoList{
-    margin: 2% 40%
+.container{
+    width: 50%;
+    margin: auto;
+    text-align: left; 
 }
